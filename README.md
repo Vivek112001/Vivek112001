@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek112001&label=Profile%20views&color=0e75b6&style=flat" alt="vivek112001" /> </p>
 
-- 🔭 I’m currently working on **Social Media App**
+- 🔭 I’m currently working on **LabTest Booking App**
 
 - 🌱 I’m currently learning **Java Full Stack**
 
-- 💬 Ask me about **JavaScript, React, Express.js, Node.js**
+- 💬 Ask me about **Java, AngularJS, Spring, Spring Boot , MySQL**
 
 - 📫 How to reach me **vivekjha9211@gmail.com**
 
